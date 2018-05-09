@@ -53,3 +53,8 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+
+app/src/androidTest/java/com/wanban/test/ExampleInstrumentedTest.kt
+
+app/src/test/java/com/wanban/test/ExampleUnitTest.kt
